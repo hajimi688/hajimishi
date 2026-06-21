@@ -1698,7 +1698,74 @@
     }
   ],
   "lives": [
-    {}
+     {
+      "name": "稳哥直播",
+      "type": 0,
+      "url": "http://47.120.41.246:8025/vip/jar/zb.php",
+      "playerType": 1
+    },
+    {
+      "name": "稳哥直播2",
+      "type": 0,
+      "url": "https://fastgit.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "playerType": 1
+    },
+    {
+      "name": "稳哥直播3",
+      "type": 0,
+      "url": "https://gitee.com/szwxk/watch-television/raw/master/wxk1.m3u",
+      "playerType": 1
+    },
+     {
+      "name": "直播接口",
+      "type": 1,
+      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
+    },
+     {
+      "name": "裤佬TV直播",
+      "type": 1,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"
+    },
+    {
+      "name": "世界杯直播",
+      "type": 0,
+      "url": "./lib/catvod.m3u"
+    },
+    {
+      "name": "潇雨TV直播",
+      "type": 1,
+      "url": "https://itv.tv1288.xyz"
+    },
+    {
+      "name": "日后TV直播",
+      "type": 0,
+      "url": "http://rihou.cc:555/gggg.nzk"
+    },
+    {
+      "name": "涛涛TV直播",
+      "type": 1,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/log.png"
+    },
+    {
+      "name": "易发TV直播",
+      "type": 1,
+      "url": "./lib/yiyifafa.txt"
+    },
+    {
+      "name": "咪咕TV直播",
+      "type": 0,
+      "url": "./lib/interface.txt"
+    },
+    {
+      "name": "宫殿TV直播",
+      "type": 0,
+      "url": "https://gongdian.top/tv/iptv"
+    },
+    {
+      "name": "虎牙TV直播",
+      "type": 1,
+      "url": "https://yg.ygbox.de5.net/huya.php"
+    }
   ],
   "parses": [
     {
