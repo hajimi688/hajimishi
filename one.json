@@ -1,5 +1,5 @@
 {
-  "spider": "xiaosa.jar",
+  "spider": "./xiaosa.jar",
   "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
   "sites": [
     {
