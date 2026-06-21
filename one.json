@@ -1,5 +1,5 @@
 {
-  "spider": "./xiaosa.jar",
+  "spider": "./06151227.png;md5;e727792f1b1d3c983e3026ce633b9ad5",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "sites": [
     {
@@ -64,7 +64,6 @@
       "key": "咕噜",
       "name": "咕噜丨APP",
       "type": 3,
-      "jar": "./jars/xiaosayun.jar",
       "api": "csp_App99",
       "ext": {
         "host": "http://103.45.132.22:19987/app/bn",
@@ -81,7 +80,6 @@
       "key": "无极99",
       "name": "无极丨APP",
       "type": 3,
-      "jar": "./jars/xiaosayun.jar",
       "api": "csp_App99",
       "ext": {
         "host": "http://111.170.140.70:19987/app/bn",
@@ -99,7 +97,6 @@
       "key": "听心99",
       "name": "听心｜APP",
       "type": 3,
-      "jar": "./jars/xiaosayun.jar",
       "api": "csp_App99",
       "ext": {
         "host": "https://api.12321app.com/api",
@@ -116,7 +113,6 @@
       "key": "橙子99",
       "name": "橙子丨APP",
       "type": 3,
-      "jar": "./jars/xiaosayun.jar",
       "api": "csp_App99",
       "ext": {
         "host": "http://113.31.180.218:19987/app/bn",
@@ -133,7 +129,6 @@
       "key": "剧圈99",
       "name": "剧圈丨APP",
       "type": 3,
-      "jar": "./jars/xiaosayun.jar",
       "api": "csp_App99",
       "ext": {
         "host": "http://124.221.3.182:19987/app/bn",
@@ -149,7 +144,6 @@
       "key": "双星99",
       "name": "双星丨APP",
       "type": 3,
-      "jar": "./jars/xiaosayun.jar",
       "api": "csp_App99",
       "ext": {
         "host": "http://175.178.65.250:19987/app/bn",
@@ -166,7 +160,6 @@
       "key": "顾我99",
       "name": "顾我丨APP",
       "type": 3,
-      "jar": "./jars/xiaosayun.jar",
       "api": "csp_App99",
       "ext": {
         "host": "http://117.50.200.113:19987/app/bn",
@@ -183,7 +176,6 @@
       "key": "宫阁",
       "name": "宫阁｜APP",
       "type": 3,
-      "jar": "./jars/xiaosayun.jar",
       "api": "csp_App99",
       "searchable": 1,
       "quickSearch": 1,
@@ -204,7 +196,6 @@
       "key": "天堂",
       "name": "天堂｜APP",
       "type": 3,
-       "jar": "./jars/xiaosayun.jar",
       "api": "csp_AppDrama",
       "searchable": 1,
       "quickSearch": 1,
@@ -330,6 +321,27 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://qpcj.69mini.com/api.php/app/"
+    },
+    {
+      "key": "湘漓",
+      "name": "湘漓｜APP",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": "https://ledayy.com"
+    },
+    {
+      "key": "嘉禾",
+      "name": "嘉禾｜APP",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": "https://www.baidukuaiy.top"
+    },
+    {
+      "key": "峥嵘",
+      "name": "峥嵘｜APP",
+      "type": 3,
+      "api": "csp_AppFox",
+      "ext": "https://api2026.hboqy.cn"
     },
     {
       "key": "金牌",
