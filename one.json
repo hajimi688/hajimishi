@@ -1207,15 +1207,14 @@
       "timeout": 60
     },
     {
-      "name": "88｜体育",
-      "key": "BbkqLive",
+      "key": "88看球",
+      "name": "88｜看球",
       "type": 3,
-      "api": "csp_BbkqLiveAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw",
-      "jar": "./jars/new.jar",
+      "api": "csp_Kanqiu",
+      "gridview": 3,
+      "style": {
+        "type": "list"
+      }
     },
     {
       "key": "瓜子体育",
