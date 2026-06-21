@@ -35,6 +35,61 @@
       "api": "csp_YGP",
       "searchable": 0
     },
+   {
+      "key": "星辰影院",
+      "name": "星辰影院｜秒播",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/星辰影院.js"
+    },
+   {
+      "key": "柠檬",
+      "name": "柠檬｜秒播",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+    },
+    {
+      "key": "葫芦",
+      "name": "葫芦｜秒播",
+      "type": 3,
+      "jar":"./NJ4ZWwg7_20260518095827A465.jpg;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf",
+      "api": "csp_AppGet",
+      "ext": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt|8R33VQSxzmCaHpEX|V122|okhttp/3.10.0"
+    },
+  {
+      "key": "剧评",
+      "name": "剧评|秒播",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 1,
+      "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
+    },
+   {
+      "key": "爱营",
+      "name": "爱营|秒播",
+      "type": 3,
+      "jar":"./NJ4ZWwg7_20260518095827A465.jpg;md5;84edf41db6dbaf56b1ccdc7a11cc0ddf",
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt|nzEqOgYk3QzHuEP8|V122|okhttp/3.10.0"
+    },
+   {
+      "name": "瓜子|秒播",
+      "key": "Guazi",
+      "type": 3,
+      "api": "csp_GuaziAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "sites": "",
+        "filters": "https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"
+      }
+    },
     {
       "key": "猎手影视",
       "name": "猎手｜秒播",
