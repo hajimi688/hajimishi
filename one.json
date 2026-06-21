@@ -35,7 +35,16 @@
       "api": "csp_YGP",
       "searchable": 0
     },
-{"key": "移动┃晓飒","name": "移动😻晓飒","type": 3,"api": "csp_PanWebSharePT","style": {"type": "list"},"quickSearch":1},
+{
+    "key": "移动┃晓飒",
+    "name": "移动免扫",
+    "type": 3,
+    "api": "csp_PanWebSharePT",
+    "style": {
+        "type": "list"
+    },
+    "quickSearch": 1
+},
  {
             "key": "测试v4",
             "name": "测试｜V4秒播",
