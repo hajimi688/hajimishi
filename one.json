@@ -35,6 +35,13 @@
       "api": "csp_YGP",
       "searchable": 0
     },
+ {
+        "key": "先生┃晓飒",
+        "name": "先生｜秒播",
+        "type": 3,
+        "api": "csp_XBPQ",
+        "ext": "./lib/先生.js"
+    },
 {
         "key": "威武┃影视",
         "name": "威武｜秒播",
