@@ -36,6 +36,25 @@
       "searchable": 0
     },
 {
+        "key": "威武┃影视",
+        "name": "威武｜秒播",
+        "type": 3,
+        "api": "./py/威武.py",
+        "ext": "http://43.248.117.123:4680",
+        "quickSearch": 1
+    },
+    {
+        "key": "布布┃影视",
+        "name": "布布｜秒播",
+        "type": 3,
+        "api": "./py/布布.py",
+        "style": {
+            "type": "rect",
+            "ratio": 1.33
+        },
+        "quickSearch": 1
+    },
+{
     "key": "移动┃晓飒",
     "name": "移动｜免扫",
     "type": 3,
