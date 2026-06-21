@@ -833,23 +833,6 @@
       "genre": "shortdrama"
     },
     {
-      "key": "星芽短剧",
-      "name": "星芽｜短剧",
-      "type": 3,
-      "api": "./py/星芽短剧.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "genre": "shortdrama"
-    },
-    {
-      "key": "独播影视",
-      "name": "独播｜影视",
-      "type": 3,
-      "api": "csp_Duboku"
-    },
-    {
       "key": "厂长影视",
       "name": "厂长｜影视",
       "type": 3,
@@ -872,12 +855,6 @@
       "api": "csp_Xlys",
       "type": 3,
       "ext": "https://www.xlysw.ggff.net"
-    },
-    {
-      "key": "瓜子影视",
-      "name": "瓜子｜影视",
-      "type": 3,
-      "api": "csp_Gz360"
     },
     {
       "key": "云播影视",
@@ -1230,11 +1207,51 @@
       "timeout": 60
     },
     {
-      "key": "88看球",
-      "name": "88｜看球",
+      "name": "88｜体育",
+      "key": "BbkqLive",
       "type": 3,
-      "api": "csp_Kanqiu",
-      "gridview": 3,
+      "api": "csp_BbkqLiveAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw",
+      "jar": "https://gh-proxy.com/https://github.com/franksun1211/TVBOX/raw/20d31e90de6533163106b6f5e8698fe6edd956f0/APP/TVBoxOSC/AOWU/jar/1.png"
+    },
+    {
+      "key": "瓜子体育",
+      "name": "瓜子｜体育",
+      "type": 3,
+      "api": "csp_GuaziTY",
+      "style": {
+        "type": "list"
+      }
+    },
+    {
+      "key": "企鹅体育",
+      "name": "企鹅体育｜直播",
+      "type": 3,
+      "searchable": 1,
+      "api": "./lib/企鹅体育.py",
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+    {
+      "key": "暴风体育",
+      "name": "暴风｜看球",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "categories": [
+        "足球",
+        "篮球",
+        "网球",
+        "斯诺克"
+      ],
       "style": {
         "type": "list"
       }
@@ -1244,15 +1261,6 @@
       "name": "球通｜体育",
       "type": 3,
       "api": "csp_QiutongTY",
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "瓜子体育",
-      "name": "瓜子｜体育",
-      "type": 3,
-      "api": "csp_GuaziTY",
       "style": {
         "type": "list"
       }
@@ -1325,6 +1333,22 @@
       "name": "爱听｜音乐",
       "type": 3,
       "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/other/py/爱听音乐.py"
+    },
+    {
+      "key": "csp_Kugou",
+      "name": "酷狗｜音乐",
+      "type": 3,
+      "api": "csp_Kugou",
+      "jar": "https://gitee.com/tianwikeji/jar/raw/master/Yoursmile.jar",
+      "playerType": 2,
+      "ext": {
+        "classes": [
+          {
+            "type_name": "酷狗",
+            "type_id": "kugou"
+          }
+        ]
+      }
     },
     {
       "key": "网络直播",
@@ -1536,107 +1560,6 @@
         "ratio": 1.597
       }
     },
-   {
-            "key": "drpyS_布谷音乐[听]",
-            "name": "布谷｜音乐",
-            "type": 4,
-            "api": "http://82.158.91.105:5757/api/布谷音乐[听]?pwd=dzyyds",
-            "searchable": 2,
-            "filterable": 0,
-            "quickSearch": 0,
-            "title": "布谷音乐[听]",
-            "类型": "音乐",
-            "mergeList": true,
-            "more": {
-                "mergeList": 1
-            },
-            "lang": "ds",
-            "ext": ""
-        },
-        {
-            "key": "catvod_听了么[听]",
-            "name": "听了么｜音乐",
-            "type": 3,
-            "api": "http://82.158.91.105:5757/cat/听了么[听].js?pwd=dzyyds",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "title": "听了么[听]",
-            "lang": "cat",
-            "ext": ""
-        },
-        {
-            "key": "catvod_网抑云[听]",
-            "name": "网抑云｜音乐",
-            "type": 3,
-            "api": "http://82.158.91.105:5757/cat/网抑云[听].js?pwd=dzyyds",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "title": "网抑云[听]",
-            "author": "",
-            "more": {
-                "sourceTag": "音乐,MV,评论",
-                "errorPlayNext": true
-            },
-            "类型": "音乐",
-            "logo": "https://s1.music.126.net/style/favicon.ico?v20180823",
-            "lang": "cat",
-            "ext": ""
-        },
-        {
-            "key": "drpyS_米兔音乐[听]",
-            "name": "米兔｜音乐",
-            "type": 4,
-            "api": "http://82.158.91.105:5757/api/米兔音乐[听]?pwd=dzyyds",
-            "searchable": 2,
-            "filterable": 0,
-            "quickSearch": 0,
-            "title": "米兔音乐[听]",
-            "类型": "影视",
-            "lang": "ds",
-            "ext": ""
-        },
-    {
-      "key": "csp_Music",
-      "name": "MUSIC｜音乐",
-      "jar": "https://img2.gelonghui.com/library/c4def-29ea7616-d551-4a73-9b31-cace1447426d.png;md5;c4def4496c2e1a0959c8fedfaff41488",
-      "type": 3,
-      "api": "csp_Music",
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": ""
-    },
-    {
-      "key": "酷狗音乐",
-      "name": "酷狗｜大全",
-      "type": 3,
-      "jar": "http://lud.07hx.shop/fm.jar;md5;542ed744b07121213f70323b9bcbecca",
-      "api": "csp_Kugou",
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "csp_Kugou",
-      "name": "酷狗｜音乐",
-      "type": 3,
-      "api": "csp_Kugou",
-      "jar": "https://gitee.com/tianwikeji/jar/raw/master/Yoursmile.jar",
-      "playerType": 2,
-      "ext": {
-        "classes": [
-          {
-            "type_name": "酷狗",
-            "type_id": "kugou"
-          }
-        ]
-      }
-    },
     {
       "key": "kktd",
       "name": "糖豆｜广场舞",
@@ -1647,21 +1570,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-    {
-            "key": "drpyS_梨园行[戏]",
-            "name": "梨园行｜戏曲",
-            "type": 4,
-            "api": "http://82.158.91.105:5757/api/梨园行[戏]?pwd=dzyyds",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 0,
-            "title": "梨园行[戏]",
-            "author": "EylinSir",
-            "类型": "影视",
-            "logo": "https://img.znds.com//uploads/new/221222/9-2212221050561N.png",
-            "lang": "ds",
-            "ext": ""
-        },
    {
             "name": "嗷嗚｜漫剧",
             "key": "MjHggg",
@@ -1770,142 +1678,18 @@
             "changeable": 1,
             "genre": "shortdrama"
         },
-        {
-            "name": "星星｜短剧",
-            "key": "Xydj",
-            "type": 3,
-            "api": "csp_XydjAmns",
-            "jar": "./jars/嗷呜.jar;md5;71db9888b04fa21b49768a8e25503df4",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "genre": "shortdrama"
-        },  
-    {
-      "key": "jhdj",
-      "name": "聚合｜短剧",
-      "type": 4,
-      "api": "http://box.52xiaobai.cn/video/jhdj?token=50721480be241243",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "旺-旺",
-      "name": "旺仔｜短剧",
-      "type": 1,
-      "api": "https://api.wwzy.tv/api.php/provide/vod/",
-      "playerType": 1,
-      "searchable": 1,
-      "changeable": 1
-    },
-        {
-            "key": "hipy_py_河马短剧",
-            "name": "河马｜短剧",
-            "type": 4,
-            "api": "http://82.158.91.105:5757/api/河马短剧?do=py&pwd=dzyyds",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "title": "河马短剧",
-            "lang": "hipy",
-            "ext": ""
-        },
-        {
-            "key": "drpyS_七猫短剧[短]",
-            "name": "七猫｜短剧",
-            "type": 4,
-            "api": "http://82.158.91.105:5757/api/七猫短剧[短]?pwd=dzyyds",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 0,
-            "title": "七猫短剧[短]",
-            "类型": "短剧",
-            "lang": "ds",
-            "ext": ""
-        },
-        {
-            "key": "drpyS_星芽短剧[短]",
-            "name": "星芽｜短剧",
-            "type": 4,
-            "api": "http://82.158.91.105:5757/api/星芽短剧[短]?pwd=dzyyds",
-            "searchable": 2,
-            "filterable": 1,
-            "quickSearch": 1,
-            "title": "星芽短剧[短]",
-            "类型": "短剧",
-            "lang": "ds",
-            "ext": ""
-        },
-        
-        {
-            "key": "drpyS_西饭短剧[短]",
-            "name": "西饭｜短剧",
-            "type": 4,
-            "api": "http://82.158.91.105:5757/api/西饭短剧[短]?pwd=dzyyds",
-            "searchable": 2,
-            "filterable": 1,
-            "quickSearch": 0,
-            "title": "西饭短剧[短]",
-            "类型": "短剧",
-            "lang": "ds",
-            "ext": ""
-        },
-
-        {
-            "key": "php_星星短剧 ᵈᶻ[短]",
-            "name": "星星｜短剧",
-            "type": 4,
-            "api": "http://82.158.91.105:5757/api/星星短剧 ᵈᶻ[短]?do=php&pwd=dzyyds",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "类型": "短剧",
-            "title": "星星短剧 ᵈᶻ[短]",
-            "lang": "php",
-            "ext": ""
-        },
-
-        {
-            "key": "catvod_聚合短剧[短]",
-            "name": "聚合｜短剧",
-            "type": 3,
-            "api": "http://82.158.91.105:5757/cat/聚合短剧[短].js?pwd=dzyyds",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "类型": "短剧",
-            "title": "聚合短剧[短]",
-            "lang": "cat",
-            "ext": ""
-        },
-    {
-      "key": "甜圈短剧",
-      "name": "甜圈｜短剧",
-      "type": 3,
-      "api": "csp_TianquanDJ",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "类型": "短剧"
-    },
-    {
-      "key": "锦鲤短剧",
-      "name": "锦鲤｜短剧",
-      "type": 3,
-      "api": "csp_JinliDJ",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "类型": "短剧"
-    },
     {
       "key": "push_agent",
       "name": "手机｜推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+   {
+      "key": "请勿相信广告",
+      "name": "请勿相信广告",
       "type": 3,
       "api": "csp_Push",
       "searchable": 0,
