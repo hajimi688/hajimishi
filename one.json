@@ -230,7 +230,7 @@
     },
     {
       "key": "小鹿",
-      "name": "小鹿秒播",
+      "name": "小鹿｜秒播",
       "type": 3,
       "api": "csp_AppQi",
       "searchable": 1,
@@ -283,7 +283,7 @@
     },
    {
       "key": "荐片_js",
-      "name": "荐片秒播",
+      "name": "荐片｜秒播",
       "api": "./lib/jianpian.js",
       "searchable": 1,
       "quickSearch": 1,
@@ -1215,7 +1215,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw",
-      "jar": "https://gh-proxy.com/https://github.com/franksun1211/TVBOX/raw/20d31e90de6533163106b6f5e8698fe6edd956f0/APP/TVBoxOSC/AOWU/jar/1.png"
+      "jar": "./jars/new.jar",
     },
     {
       "key": "瓜子体育",
