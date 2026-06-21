@@ -133,7 +133,7 @@ class Spider(Spider):
                 'vod_actor': i['vodActor'],
                 'vod_director': i['vodDirector'],
                 'vod_content': i['vodContent'],
-                'vod_play_from': '🌈蜀山专享',
+                'vod_play_from': '🌈哈基咪专享',
                 'vod_play_url': '#'.join(urls),
 
             }
