@@ -1,0 +1,51 @@
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml" url-tvg="https://epg.catvod.com/epg.xml"
+#EXTINF:-1 tvg-logo="https://www.catvod.com/logo.png" group-title="公告通知",📢 温馨提示：遇到播放失败请刷新列表
+https://www.catvod.com/backup.m3u8
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2222.jpg?v=1780171883879" group-title="世界杯",🔴 突尼斯 vs 日本 [世界杯]-(CCTV5)
+http://iptv.catvod.com/kf/catvod_com?token=WhMnwgTwQhIbyIdqFpnuM7VPerWIyfJ7E9lWdn3AY01We456znbRsWQi2xzXNRHrLADgCvxHCApKkCgzOQFgA9hRdco5kBMIRMdRCbFIj14yc60wWSAGBFmbjaB6LVSkxj_cyTPgO6E=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/2026.jpg?v=1780171883879" group-title="世界杯",🔴 突尼斯 vs 日本 [世界杯]-(ELTA体育)
+http://iptv.catvod.com/kf/catvod_com?token=jocJtEYPbgNkO0q55HoalxJ90Gm3zDa9D8uN-JepToC1RRb4OyqGVCbG6yaX1m_wuJd5KO9-9CSsEvdZMbSWbV9O_Q2P6B8JLyrJKew1iv90IcR1HRKakca6bBArHFMrrdYVWaARGNo=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/5555.jpg?v=1780171883879" group-title="世界杯",🔴 突尼斯 vs 日本 [世界杯]-(广东体育)
+http://iptv.catvod.com/kf/catvod_com?token=SNosfo3jnsNabLVQOjRoHCqIOQ1dZvGx9msm9OlnIBi3NLzsiZPvAwqD40gVFhpNR67o5MxXeQwWmk7rWcqodVmp4sDg6KI0YhHH0Qeo_pF1klcYp8wkyP8p1C2jzyD-fQ2sjvKsqPg=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/777.jpg?v=1780171883879" group-title="世界杯",🔴 突尼斯 vs 日本 [世界杯]-(澳门体育)
+http://iptv.catvod.com/kf/catvod_com?token=yDTjpJ37XoEp8PxUEfFcup-0Px6j67GwEU4HQIBByba0oxaZDhKa60K3kBxrup1h7kKOCDGy14FZkt4IdrWy6mbZFtYyhyMEPiZ1zJLE15rG5tk9gA_sQXVqAeHKZcO-AumAXqZXh54=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1036.jpg?v=1780171883879" group-title="国际赛",🔴 中国 vs 澳大利亚 [国际赛]-(直播36)
+http://iptv.catvod.com/kf/catvod_com?token=42dwRkPTKWbhyBus5svd1Mu0GyPgiY2bH3MyZjxcBZmVgeoPbxYD6KMB_HZrv2NRU8R7_zmqbL7DcHIRIp_34QsNooE=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1005.jpg?v=1780171883879" group-title="足协杯",🔴 苏州东吴 vs 云南玉昆 [足协杯]-(直播5)
+http://iptv.catvod.com/kf/catvod_com?token=Le-Eo0Cxhx4mdCFeNn0sfUAmEse5bPgvcT-O15TsOi1RjspvbyW3eE-pwctHpFBylajjDyJBU6dCB4gVsYBiyrvb8Bo=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1006.jpg?v=1780171883879" group-title="中U21",🔴 北京国安U20 vs 山东泰山U20 [中U21]-(直播6)
+http://iptv.catvod.com/kf/catvod_com?token=CMORRVJtkJBJhPKQplDjuVJSFMpDvq9krHh-P-ZwFK0T5SYuXU3rFMPDzkA_9y5DSidNlIwAaeFSdZ5Icha8y5Oaz18=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1007.jpg?v=1780171883879" group-title="爱沙甲",🔴 潭美卡 vs 纳尔瓦 [爱沙甲]-(直播7)
+http://iptv.catvod.com/kf/catvod_com?token=hbTo8PK1L40XTeQqUgDzG4TC8rIy68Ium3lrbss4I6gWZd1s64MNrigISVcgViohicfTeVT4wbWgFUkZe5dxwmxPEYE=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1002.jpg?v=1780171883879" group-title="村超",🔴 车江一村 vs 龙泉井村 [村超]-(直播2)
+http://iptv.catvod.com/kf/catvod_com?token=DBfUuZcDfbD8P9Wdfh9ZmgzQwajRRRPF-2u4hfgcKxQrXB3yaxGllukY07qamWc6wcuhvZN2-mTGmM7COjjiEZ43vRQ=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1014.jpg?v=1780171883879" group-title="韩K4联",🔴 平泽市民 vs 骊川市民 [韩K4联]-(直播14)
+http://iptv.catvod.com/kf/catvod_com?token=TFZo1qclWOH-M1WKMsH6WXLUrp5DnQUkUMF_GDJS7pcbsD-gOR7lueq_uz-2H2ymuabNA6R10VZPIBc1CNk5_izRSAs=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1034.jpg?v=1780171883879" group-title="拉脱超",🔴 超级星 vs 奥达里加 [拉脱超]-(直播34)
+http://iptv.catvod.com/kf/catvod_com?token=eW3c8XTOE9xAPWzrkXX-Wu-0ebBLai6ChSl3iBiL0jqaeMrrq-i3lAwDg-buzdbqKKGTAYzR3aPA0nCo-Ue9IMMFq1I=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1039.jpg?v=1780171883879" group-title="蒙古超",🔴 汗加里德 vs 德仁FC [蒙古超]-(直播39)
+http://iptv.catvod.com/kf/catvod_com?token=A6vff3_iHCNXR5VrPxTfVDrAUZlTn0UEfTRYUF89zORWLRj4XCB9A3bIyOUDtim4HH6WLHQpE1tgXAJxrBtNt2CVNYI=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1040.jpg?v=1780171883879" group-title="瑞典乙",🔴 派提亚 vs 艾斯基斯杜拿 [瑞典乙]-(直播40)
+http://iptv.catvod.com/kf/catvod_com?token=vNYu2hNNCLtjRLqP-zTG2HKb6jP2gOc4Hk3EAEeZMcACbiaGteYZCv1XgX_myaeIliu8VHqfwBAT3Bf5Kuicz7U_Q14=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1041.jpg?v=1780171883879" group-title="立陶甲",🔴 德尤加斯 vs 苏杜瓦 [立陶甲]-(直播41)
+http://iptv.catvod.com/kf/catvod_com?token=EHlFRVYV1-BYB5JNsAulJjKSTCO3V7WSubzzpkdb-sWm92drv0YqEc0uZJaB2HznMwpFJMin8S3I9m038tzdC0UnSu4=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1256.jpg?v=1780171883879" group-title="国际赛",🔴 中国 vs 澳大利亚 [国际赛]-(原声56)
+http://iptv.catvod.com/kf/catvod_com?token=wVJXMlvWZt0awhnZ_IVGjTwh5DSdC5KhrGsUh3IaYfZ2hzZWWEXTUJM5wb8H0T9fH1TiZU0oS0jIRb8SPGuByF5Iz8cqpe-fQFrRw-ouaBuKFRyGhtDNpFKTqzPD4UZcLm2OT9L9gP_F3MWNYHSl7n2A0-g44C1aa_XhLf3Q4cI5YZV32Uo=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1210.jpg?v=1780171883879" group-title="爱沙甲",🔴 潭美卡 vs 纳尔瓦 [爱沙甲]-(原声10)
+http://iptv.catvod.com/kf/catvod_com?token=rGVZAtE2E0MNFo9oVfrOgQJifBsctabXBLP3nkjGhE52C8sUcuEIoFJe-Z0zJzx-pAccWLXtAFLJ60hoyuFcygm-O748qB2f8EcSi7o-AFgPA1JM4l3cIB0EX2K_4eSyyzvyUT6dskJVjFvbJ1KIGAlf0pEB6Qqnxs07lUcHn5EM12K96xw=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1216.jpg?v=1780171883879" group-title="立陶甲",🔴 德尤加斯 vs 苏杜瓦 [立陶甲]-(原声16)
+http://iptv.catvod.com/kf/catvod_com?token=MduQsbnmdjd0uZiDtDIrErIVbi8BJZCysQohufpL025xe734cgPTGufK1enn0bdcVS2gn4-blIUDnOmuQpxiQd3X6lNs4wyRf2Y6WNUWkOsORulxKcZmgKHxRDlSLHrIffbcQ6YFBA9NaoRE0tkDOYBkRsiO1dc8oZyONxd5QchT9vecBIU=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1208.jpg?v=1780171883879" group-title="瑞典乙",🔴 派提亚 vs 艾斯基斯杜拿 [瑞典乙]-(原声8)
+http://iptv.catvod.com/kf/catvod_com?token=6-aKJTJ3deIjylKWvKSk214URTG42l4xM8oVVMtyiOqHKiLMLw_sVNgSoQRV2wUlEB9flIZ7zYSTBYU3vzxNX3-nWhktwZo9hn-wDYqczvIhMJlXY3AW9sUwosXiCjjRsdkwV6F77HuDzFXvmtAc1xU2Qxlh7EDprpb69-EGgG8VNlNANj0=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1223.jpg?v=1780171883879" group-title="中U21",🔴 北京国安U20 vs 山东泰山U20 [中U21]-(原声23)
+http://iptv.catvod.com/kf/catvod_com?token=PRf8oRI9Wj18pOjjEtQQX2SEfZ3E6tAVQgpeByas3ad4GGWCNEBvq1-9V6_6wle6Qb87byEqhHeM5xtvDEnLqbC0VUo0Hpn8g4pSc1TL7f-EuypKms73mEJe2cRF0dWIXSIEIzIVdBW0ol24AlmCz0jxXWHo_ptve6y9jdoenfMTODLQiRI=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1229.jpg?v=1780171883879" group-title="蒙古超",🔴 汗加里德 vs 德仁FC [蒙古超]-(原声29)
+http://iptv.catvod.com/kf/catvod_com?token=9MOaJoKmmDH6QUhu9b0eBRfMlgsziPL6406hH3gTeqVdt3SPxboKYtJfZ7uW-O6s4jEU7Lp_kCsp6cksGPrKCAQVQ32xriLxy268cMRUD7sVVRp9R4N2bobUKzJy6A5YLx3R9QxY6BlfmRNQhHZf6PvFfP70UNfqGFDE4rU7vZQsmheD38M=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1238.jpg?v=1780171883879" group-title="足协杯",🔴 苏州东吴 vs 云南玉昆 [足协杯]-(原声38)
+http://iptv.catvod.com/kf/catvod_com?token=DnXDKxmyoQvOjzcyGvZQNeqbYd_KhLi2Yg-kPcdnbWi2b3zMEy4fK-HlfAy_9tn1onH5RqiQRW4soBu9K1wXiSIsIaxw49bN6jx5zdl-4GYIBY09b4yvezmXl2WC4V8tujvov5IjwDVKVmSkYwFxSEKnpbfS1PKf6jz--xdGj2W7gSN73Gg=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1245.jpg?v=1780171883879" group-title="拉脱超",🔴 超级星 vs 奥达里加 [拉脱超]-(原声45)
+http://iptv.catvod.com/kf/catvod_com?token=ndzmVQUpuh4y9jO6RKgobX2-83g1YuCf7bP6soWdRWoDxff2tJr1rQrb09D8u5sRs_Ks7rxDTXmLYwpiSu5Xfcy1No3P77BR7m6BL702SMyiUng0yoPk6j4fo4Deku2bgIddotoZr4IfPqr6j8qneIojzv5Z29-aOBe68xWpmjNtawplDRY=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1254.jpg?v=1780171883879" group-title="韩K4联",🔴 平泽市民 vs 骊川市民 [韩K4联]-(原声54)
+http://iptv.catvod.com/kf/catvod_com?token=FReNFT4jb_1wTOm-dJClUousmBc5Ra4T_8BNv7leQIrcwLbUNF9T07HIgnToDNQDjof8mHV5Ci703dUTuGLxgDIFmYod8xr_5NWqPfpXR9klpvIwshRci5sSExz3VeTUD-RNsGcarOFiy2wXRbAfpxZwviTbjaUYRtA9dqDki1grfnENjgc=
+#EXTINF:-1 tvg-logo="https://kafeizhibo.cc/static/screenshots/1255.jpg?v=1780171883879" group-title="村超",🔴 车江一村 vs 龙泉井村 [村超]-(原声55)
+http://iptv.catvod.com/kf/catvod_com?token=qKF41aBk2N0N9fHHGrvlfePvm3sqQA2HzfKJjNCBUr_1yQfwzgob411OKEQCBZvQBt803qyST2hdFTDbCgkM6YoVZ1XTlOhUtQxJq7bp8msn7BU40dRtr8mGYfmfUzO0IVMIkdxN-AAwtx-cyOgDhdjDSiIesV6atW1c1R8ScE1Zze6geII=
