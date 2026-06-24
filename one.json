@@ -36,34 +36,7 @@
       "api": "csp_YGP",
       "searchable": 0
     },
-{
-      "key": "讯讯视频",
-      "name": "腾翼｜秒播",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/腾讯视频.js"
-    },
-    {
-      "key": "酷酷视频",
-      "name": "悠悠｜秒播",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/优酷视频.js"
-    },
-    {
-      "key": "芒芒视频",
-      "name": "茫茫｜秒播",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/芒果视频.js"
-    },
-    {
-      "key": "爱艺视频",
-      "name": "爱在｜秒播",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/爱奇艺.js"
-    },
+
 {
             "key": "bubutv",
             "name": "步步影视｜秒播",
