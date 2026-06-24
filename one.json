@@ -37,6 +37,34 @@
       "searchable": 0
     },
 {
+      "key": "讯讯视频",
+      "name": "腾翼｜秒播",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/腾讯视频.js"
+    },
+    {
+      "key": "酷酷视频",
+      "name": "悠悠｜秒播",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/优酷视频.js"
+    },
+    {
+      "key": "芒芒视频",
+      "name": "茫茫｜秒播",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/芒果视频.js"
+    },
+    {
+      "key": "爱艺视频",
+      "name": "爱在｜秒播",
+      "type": 3,
+      "api": "./js/drpy2.min.js",
+      "ext": "./js/爱奇艺.js"
+    },
+{
             "key": "bubutv",
             "name": "步步影视｜秒播",
             "type": 3,
@@ -1814,6 +1842,19 @@
       "type": 3,
       "url": "Web"
     },
+
+ {"name": "夜夜","type": 1,"url": "https://json.cfysoft.cc/api/?key=db40a4b2f15c4078301a068181bb2724&url="},
+{"name": "小欧","type": 1,"url": "https://json.xophp.com/api/?key=5492ef7d5a1646338426e2f45b8c8e0d&url="},
+{"name": "友谊","type": 1,"url": "http://global.apirun.xn--vsqw5hh18a8vw.com:2025/api/?key=63c856aac8b205a5cb972ae8950cfd78&url="},
+{"name": "花旗","type": 1,"url": "https://api.huaqi.pro/api/?key=5bd0db7c858ba9f999373450f3651af7&url="},
+{"name": "迷你1","type": 1,"url": "https://niubi.69mini.com/api/?key=bcf862a11db301f5609ec85e7e5012ad&url="},
+{"name": "迷你2","type": 1,"url": "http://niubi.69mini.com/api/?key=09a74556faba7e3b528d64b9c9a86a61&url="},
+{"name": "迷你3","type": 1,"url": "http://jiexi.69mini.com/api/?key=5cc632accf2f4b27a417b89c8edf69c7&url="},
+{"name": "麒麟","type": 1,"url": "https://api.jxapi.cc/api/?key=6e4acf058180b58cbdb0106aa5cdb1e2&url="},
+{"name": "魂动","type": 1,"url": "http://nsys.hundong.xyz/api/?key=EdG87gW0IDYarx9ry5&url="},
+{"name": "白粥","type": 1,"url": "http://103.236.72.166:188/api/?key=veniDOaEzSzIThZsyb&url="},
+{"name": "无极","type": 1,"url": "http://111.170.140.70:1332/?url="},
+
     {
       "name": "虾米",
       "type": 0,
