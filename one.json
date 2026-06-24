@@ -1321,6 +1321,27 @@
       "filterable": 0,
       "timeout": 60
     },
+   {
+      "name": "飞球|体育",
+      "key": "FeiqLive",
+      "type": 3,
+      "jar": "./jars/60ed904e-7bec-418a-bcdd-29032c21b20e.png",
+      "api": "csp_FeiqLiveAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "name": "新88|体育",
+      "key": "BbkqLive",
+      "type": 3,
+      "jar": "./jars/60ed904e-7bec-418a-bcdd-29032c21b20e.png",
+      "api": "csp_BbkqLiveAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "https://www.88kanqiu.app,https://www.88kanqiu.la,https://www.88kanqiu.one,https://www.88kanqiu.ooo,https://www.88kanqiu.pw"
+    },
     {
       "key": "88看球",
       "name": "88｜看球",
