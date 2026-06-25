@@ -1833,14 +1833,7 @@
     }
   ],
   "lives": [
-     {
-		"name": "宫殿IPTV",
-		"type": 0,
-		"url": "https://gongdian.top/tv/iptv/iptv.m3u",
-		"playerType": 1,
-		"logo": "https://gongdian.top/tv/taibiao/{name}.png"
-	    },
-	    
+    
 	    {
 		"name": "酒店源",
 		"type": 0,
@@ -1848,7 +1841,13 @@
 		"playerType": 1,
 		"logo": "https://gongdian.top/tv/taibiao/{name}.png"
 	    },
-        
+                    {
+		"name": "宫殿IPTV",
+		"type": 0,
+		"url": "https://gongdian.top/tv/iptv/iptv.m3u",
+		"playerType": 1,
+		"logo": "https://gongdian.top/tv/taibiao/{name}.png"
+	    },
 	    {
 		"name": "斗鱼一起看",
 		"type": 0,
