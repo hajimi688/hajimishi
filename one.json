@@ -103,7 +103,7 @@
     },
     {
       "key": "YunDuo",
-      "name": "☁️云朵｜秒播",
+      "name": "云朵｜秒播",
       "type": 3,
       "jar": "./jars/fish06281030.jar",
       "api": "csp_YunDuo",
