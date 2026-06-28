@@ -101,6 +101,16 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/AppToV5.py",
       "ext": "http://43.248.117.123:4680"
     },
+    {
+      "key": "YunDuo",
+      "name": "☁️云朵｜秒播",
+      "type": 3,
+      "jar": "./jars/fish06281030.jar",
+      "api": "csp_YunDuo",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1
+    },
    {
       "key": "CupFox",
       "name": "茶杯｜秒播",
