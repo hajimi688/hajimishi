@@ -1941,17 +1941,11 @@
   ],
   "lives": [
     
-	    {
-		"name": "酒店源",
-		"type": 0,
-		"url": "https://gongdian.top/tv/guovin",
-		"playerType": 1,
-		"logo": "https://gongdian.top/tv/taibiao/{name}.png"
-	    },
+	   
                     {
 		"name": "电影TV",
 		"type": 0,
-		"url": "https://gh.catmak.name/https://raw.githubusercontent.com/hajimi688/dianyTV/refs/heads/main/NEWTV",
+		"url": "https://gh.catmak.name/https://raw.githubusercontent.com/hajimi688/dianyTV/refs/heads/main/NEW.txt",
 		"playerType": 1,
 		"logo": "https://gongdian.top/tv/taibiao/{name}.png"
 	    },
