@@ -1944,14 +1944,14 @@
 	 {
 		"name": "直播",
 		"type": 0,
-		"url": "https://gh.catmak.name/https://raw.githubusercontent.com/hajimi688/dianyTV/refs/heads/main/HANew.txt",
+		"url": "https://gh-proxy.org/https://raw.githubusercontent.com/hajimi688/dianyTV/refs/heads/main/HANew.txt",
 		"playerType": 1,
 		"logo": "https://gongdian.top/tv/taibiao/{name}.png"
 	    },   
                     {
 		"name": "电影TV",
 		"type": 0,
-		"url": "https://gh.catmak.name/https://raw.githubusercontent.com/hajimi688/dianyTV/refs/heads/main/NEW.txt",
+		"url": "https://gh-proxy.org/https://raw.githubusercontent.com/hajimi688/dianyTV/refs/heads/main/NEW.txt",
 		"playerType": 1,
 		"logo": "https://gongdian.top/tv/taibiao/{name}.png"
 	    },
