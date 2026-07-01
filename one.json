@@ -1949,6 +1949,13 @@
 		"logo": "https://gongdian.top/tv/taibiao/{name}.png"
 	    },
                     {
+		"name": "电影TV",
+		"type": 0,
+		"url": "https://gh.catmak.name/https://raw.githubusercontent.com/hajimi688/dianyTV/refs/heads/main/NEWTV",
+		"playerType": 1,
+		"logo": "https://gongdian.top/tv/taibiao/{name}.png"
+	    },
+                    {
 		"name": "宫殿IPTV",
 		"type": 0,
 		"url": "https://gongdian.top/tv/iptv/iptv.m3u",
