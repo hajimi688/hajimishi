@@ -38,7 +38,7 @@
     },
   {
             "key": "冠峰",
-            "name": "冠峰｜4K",
+            "name": "冠峰｜秒播",
             "type": 3,
             "api": "./py/guanfeng.py",
             "searchable": 1,
