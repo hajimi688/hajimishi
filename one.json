@@ -36,6 +36,17 @@
       "api": "csp_YGP",
       "searchable": 0
     },
+ {
+      "key": "分享",
+      "name": "枫叶｜秒播",
+      "type": 3,
+      "api": "./py/fy.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "playable": 1
+    },
   {
       "key": "爱影视",
       "name": "爱影视｜秒播",
