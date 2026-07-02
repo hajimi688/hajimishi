@@ -48,6 +48,18 @@
             }
         },
   {
+            "key": "茶杯狐",
+            "name": "茶杯狐｜秒播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://pan.szfx.top/down.php/a81c03da23212c9ffc8a699465dedc8b.jar",
+            "quickSearch": 1,
+            "ext": {
+                "分类url": "https://www.china-itrade.com/zform-list/{cateId}-----------.html",
+                "分类": "电影$1#剧集$2#动漫$4#综艺$3"
+            }
+        }, 
+  {
       "key": "爱影视",
       "name": "爱影视｜秒播",
       "type": 3,
