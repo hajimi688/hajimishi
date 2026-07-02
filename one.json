@@ -37,6 +37,17 @@
       "searchable": 0
     },
   {
+            "key": "冠峰",
+            "name": "冠峰｜4K",
+            "type": 3,
+            "api": "./py/guanfeng.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": {
+                "分类url": "https://www.guan-feng.com/"
+            }
+        },
+  {
       "key": "爱影视",
       "name": "爱影视｜秒播",
       "type": 3,
