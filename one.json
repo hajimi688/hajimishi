@@ -36,17 +36,6 @@
       "api": "csp_YGP",
       "searchable": 0
     },
- {
-      "key": "分享",
-      "name": "枫叶｜秒播（ok壳子可以用）",
-      "type": 3,
-      "api": "https://pan.szfx.top/down.php/48ef3750f0362fb0c02c5066d2ffff92.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "playable": 1
-    },
   {
       "key": "爱影视",
       "name": "爱影视｜秒播",
@@ -133,6 +122,17 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py",
       "ext": "http://43.248.117.123:4680"
+    },
+   {
+      "key": "分享",
+      "name": "枫叶｜秒播（ok壳子可以用）",
+      "type": 3,
+      "api": "https://pan.szfx.top/down.php/48ef3750f0362fb0c02c5066d2ffff92.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "playable": 1
     },
     {
       "key": "四叶草",
