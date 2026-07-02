@@ -47,18 +47,26 @@
                 "分类url": "https://www.guan-feng.com/"
             }
         },
-  {
-            "key": "茶杯狐",
-            "name": "茶杯狐｜秒播",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://pan.szfx.top/down.php/a81c03da23212c9ffc8a699465dedc8b.jar",
-            "quickSearch": 1,
-            "ext": {
-                "分类url": "https://www.china-itrade.com/zform-list/{cateId}-----------.html",
-                "分类": "电影$1#剧集$2#动漫$4#综艺$3"
-            }
-        }, 
+    {
+      "key": "CO4k",
+      "name": "CO｜秒播",
+      "type": 1,
+      "api": "https://co4k.1ljx.com:32010/c_api/co4k_cj/?ac=",
+      "playUrl": "json:https://co4k.1ljx.com:32010/api/?key=7899dafb-0b75-4ee9-8944-6c23a7827791&url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "guan",
+      "name": "官采｜秒播",
+      "type": 1,
+      "api": "https://gctf.tfdh.top/api.php/provide/vod/?ac=list",
+      "playUrl": "json:https://api.huaqi.pro/api/?key=0c28c71e0e43f3c83aaae8257f879027&url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
   {
       "key": "爱影视",
       "name": "爱影视｜秒播",
