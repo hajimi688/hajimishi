@@ -40,6 +40,7 @@
             "key": "柯南影视",
             "name": "柯南｜秒播",
             "type": 3,
+            "jar": "./jars/dongli-spider.jar",
             "api": "./py/柯南.py",
             "style": {
                 "type": "rect",
