@@ -40,7 +40,7 @@
             "key": "柯南影视",
             "name": "柯南｜秒播",
             "type": 3,
-            "api": "./py/柯南影视.py",
+            "api": "./py/柯南.py",
             "style": {
                 "type": "rect",
                 "ratio": 0.75
