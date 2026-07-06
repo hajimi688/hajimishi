@@ -36,6 +36,16 @@
       "api": "csp_YGP",
       "searchable": 0
     },
+{
+    "key": "4K影视",
+    "name": "4K电影网｜秒播",
+    "type": 3,
+    "api": "./py/4K电影网.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "filterable": 1
+},
  {
       "key": "4KAAV_js",
       "name": "4K｜AV",
