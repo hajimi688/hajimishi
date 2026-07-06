@@ -36,6 +36,15 @@
       "api": "csp_YGP",
       "searchable": 0
     },
+ {
+      "key": "4KAAV_js",
+      "name": "4K｜AV",
+      "api": "./js/4KAV.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
+    },
 {
     "key": "柯南影视",
     "name": "柯南｜秒播",
