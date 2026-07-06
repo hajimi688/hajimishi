@@ -36,6 +36,24 @@
       "api": "csp_YGP",
       "searchable": 0
     },
+ {
+  "key": "mafa",
+  "name": "麻花｜影视",
+  "type": 3,
+  "api": "./py/麻花.py",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0
+},
+   {
+  "key": "七猫",
+  "name": "七猫｜影视",
+  "type": 3,
+  "api": "./py/七猫.py",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0
+},
 {
     "key": "4K影视",
     "name": "4K电影网｜秒播",
