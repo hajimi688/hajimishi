@@ -37,25 +37,6 @@
       "searchable": 0
     },
 {
-            "key": "点播",
-            "name": "雪狐",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://www.soushitv.com/{cateId}/list/year/{year}/page/{catePg}.html;;aAv✚",
-                "分类": "电影$movie#电视剧$tv#综艺$variety#动漫$anime",
-                "图片": "j:image||data-src=\"&&\"",
-                "标题": "j:name||alt=\"&&\"",
-                "副标题": "乐哥甄选",
-                "线路数组": "<a&&</a >",
-                "线路标题": "雪狐在线+</i>&nbsp;&&",
-                "播放数组": "grid>&&</div>||id=\"mobile-player\"&&data-poster",
-                "播放链接": "href=\"&&\"||\"&&\",
-                "播放标题": ">&&<||全集",
-                "搜索url": "/search/index?keyword={wd}&page={pg}"
-            }
-        },
-{
     "key": "4K影视",
     "name": "4K电影网｜秒播",
     "type": 3,
@@ -86,7 +67,7 @@
 },
  {
     "key": "山楂影视",
-    "name": "山楂｜秒播",
+    "name": "山楂｜秒播ok壳子用不闪退",
     "type": 3,
     "api": "./py/山楂影视.py",
     "searchable": 1,
