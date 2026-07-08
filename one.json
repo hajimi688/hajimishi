@@ -37,6 +37,15 @@
       "searchable": 0
     },
 {
+  "key": "BT",
+  "name": "两个BT｜影视",
+  "type": 3,
+  "api": "./py/两个BT.py",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0
+},
+{
       "key": "金桔_js",
       "name": "金桔｜秒播",
       "api": "./js/金桔.js",
