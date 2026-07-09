@@ -37,6 +37,78 @@
       "searchable": 0
     },
 {
+      "key": "神马影院_js",
+      "name": "神马影院｜秒播",
+      "api": "./js/神马影院.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
+    },
+{
+  "key": "豌豆",
+  "name": "豌豆｜秒播",
+  "type": 3,
+  "api": "./py/豌豆PRO.py",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0
+},
+{
+      "key": "猪猪影院_js",
+      "name": "猪猪影院｜秒播",
+      "api": "./js/猪猪影院.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
+    },
+{
+      "key": "开心影院_js",
+      "name": "开心影院｜秒播",
+      "api": "./js/开心影院.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
+    },
+{
+      "key": "ddys_js",
+      "name": "滴滴｜秒播",
+      "api": "./js/ddys.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
+    },
+{
+      "key": "iysdqjs_js",
+      "name": "山地｜秒播",
+      "api": "./js/iysdq.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
+    },
+{
+      "key": "mubai_js",
+      "name": "慕白｜秒播",
+      "api": "./js/mubai.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
+    },
+{
+      "key": "绿色影视_js",
+      "name": "绿色影视｜秒播",
+      "api": "./js/绿色影视.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
+    },
+{
       "key": "小鸭子看看_js",
       "name": "小鸭子看看｜秒播",
       "api": "./js/小鸭看看.js",
