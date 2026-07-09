@@ -37,6 +37,15 @@
       "searchable": 0
     },
 {
+      "key": "小鸭子看看_js",
+      "name": "小鸭子看看｜秒播",
+      "api": "./js/小鸭看看.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
+    },
+{
   "key": "飞鱼",
   "name": "飞鱼｜秒播",
   "type": 3,
