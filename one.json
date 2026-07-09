@@ -37,6 +37,15 @@
       "searchable": 0
     },
 {
+  "key": "飞鱼",
+  "name": "飞鱼｜秒播",
+  "type": 3,
+  "api": "./py/飞鱼.py",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0
+},
+{
   "key": "BT",
   "name": "两个BT｜影视",
   "type": 3,
