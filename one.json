@@ -36,28 +36,6 @@
       "api": "csp_YGP",
       "searchable": 0
     },
-      
-        {
-            "key": "咕噜",
-            "name": "咕噜｜秒播",
-            "type": 3,
-            "api": "csp_App99V2",
-            "ext": "http://103.45.132.22:19987|com.bd.tool.gulu|toolV2"
-        },
-        {
-            "key": "奇奇",
-            "name": "奇奇｜秒播",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/602.txt|FTgP4Gq8zPiqbt7M|V4"
-        },
-        {
-            "key": "白玉熊",
-            "name": "白熊｜秒播",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://maccms.baiyuxiong.lol/yumingjson.txt|iL0lL6zO8xM2mI1p"
-        },
 {
             "key": "4k",
             "name": "4k视频｜秒播",
@@ -82,15 +60,6 @@
       "filterable": 1,
       "type": 3
     },
-{
-  "key": "边缘影视",
-  "name": "边缘影视｜秒播",
-  "type": 3,
-  "api": "./py/边缘影视.py",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0
-},
 {
   "key": "大马猴",
   "name": "大马猴｜秒播",
