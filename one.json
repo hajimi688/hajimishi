@@ -37,6 +37,19 @@
       "searchable": 0
     },
 {
+      "key": "小帅",
+      "name": "小帅｜秒播",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://ys.xiaos12.cn",
+        "dataKey": "chfgjfrhhf628vw1",
+        "dataIv": "chfgjfrhhf628vw1"
+      }
+    },
+{
             "key": "4k",
             "name": "4k视频｜秒播",
             "type": 3,
