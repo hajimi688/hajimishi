@@ -36,6 +36,19 @@
       "api": "csp_YGP",
       "searchable": 0
     },
+{
+            "key": "青蛙王子",
+            "name": "青蛙｜秒播",
+            "type": 3,
+            "api": "./api/ggapp.py",
+            "ext": 
+{
+    "host": "https://ys.ggapp.vip",
+    "datakey": "urzP27TPBxWJQbwd",
+    "版本号": "884",
+    "版本名称": "8.8.4"
+}
+        },
  {
       "key": "高清",
       "name": "高清 ｜秒播",
