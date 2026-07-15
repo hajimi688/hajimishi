@@ -37,6 +37,24 @@
       "searchable": 0
     },
 {
+      "key": "电影人生js",
+      "name": "电影人生｜秒播",
+      "api": "./js/电影人生.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
+    },
+{
+  "key": "新瓜子影视",
+  "name": "新瓜子影视｜秒播",
+  "type": 3,
+  "api": "./py/瓜子影视.py",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0
+},
+{
   "key": "808影视",
   "name": "808影视｜秒播",
   "type": 3,
