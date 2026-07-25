@@ -36,6 +36,19 @@
       "api": "csp_YGP",
       "searchable": 0
     },
+      {
+      "key": "不戳",
+      "name": "不戳｜秒播",
+      "type": 3,
+      "api": "csp_AppGet",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": {
+        "url": "https://appcmszbc.zbc4k.app",
+        "dataKey": "pYrEkiWRYhBLTUTC",
+        "dataIv": "pYrEkiWRYhBLTUTC"
+      }
+    },
 {
       "key": "黄豆短剧",
       "name": "黄豆｜短剧",
@@ -277,7 +290,6 @@
                 "ua": "okhttp/3.10.0"
             }
         },
- 
   {
       "key": "4K影院",
       "name": "光影｜秒播",
