@@ -36,6 +36,15 @@
       "api": "csp_YGP",
       "searchable": 0
     },
+    {
+      "key": "茶杯狐[影]",
+      "name": "茶杯狐[影]｜秒播",
+      "api": "./py/茶杯狐[影].py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "type": 3
+    },
       {
       "key": "不戳",
       "name": "不戳｜秒播",
