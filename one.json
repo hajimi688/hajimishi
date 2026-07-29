@@ -36,15 +36,16 @@
       "api": "csp_YGP",
       "searchable": 0
     },
-    {
+   {
       "key": "茶杯狐[影]",
       "name": "茶杯狐[影]｜秒播",
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hajimi688/hajimishi/refs/heads/main/py/%E8%8C%B6%E6%9D%AF%E7%8B%90%5B%E5%BD%B1%5D.py/py/茶杯狐[影].py",
+      "api": "./py/茶杯狐[影].py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "type": 3
     },
+
       {
       "key": "不戳",
       "name": "不戳｜秒播",
