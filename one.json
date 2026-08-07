@@ -37,23 +37,6 @@
       "searchable": 0
     },
    {
-      "key": "枫叶影视",
-      "name": "枫叶｜秒播",
-      "type": 3,
-      "api": "csp_FengYe",
-      "ext": "https://www.vip1949.com/"
-    },
-{
-      "key": "一起影视",
-      "name": "一起 ｜秒播",
-      "type": 3,
-      "api": "csp_AppYQK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-
-   {
       "key": "茶杯狐[影]",
       "name": "茶杯狐[影]｜秒播",
       "api": "./py/茶杯狐[影].py",
