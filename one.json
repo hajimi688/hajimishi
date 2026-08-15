@@ -49,6 +49,20 @@
         "url": "http://v.rbotv.cn"
       }
     },
+    {
+      "key": "YunZhenXiang",
+      "name": "云臻享｜秒播",
+      "type": 3,
+      "api": "csp_YunZhenXiang",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
+      "ext": {
+        "index_url": "https://ss.trgfd.cn/cache/index/com.baiyunvideo.app.json",
+        "key_api": "https://www.tangsan.fun/zx.php"
+      }
+    },
       {
       "key": "一起影视",
       "name": "一起｜秒播",
