@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "豆瓣｜首页温馨提示现在只用OK跟蜂蜜壳子",
+      "name": "豆瓣｜首页",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
