@@ -188,42 +188,6 @@
   "filterable": 0
 },
 {
-  "key": "青橙影视",
-  "name": "青橙影视｜秒播",
-  "type": 3,
-  "api": "./py/青橙影视.py",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0
-},
-{
-  "key": "蜗牛影视",
-  "name": "蜗牛影视｜秒播",
-  "type": 3,
-  "api": "./py/蜗牛影视.py",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0
-},
-{
-  "key": "蓝海影院",
-  "name": "蓝海影院｜秒播",
-  "type": 3,
-  "api": "./py/蓝海影院.py",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0
-},
-{
-  "key": "青麦影视",
-  "name": "青麦影视｜秒播",
-  "type": 3,
-  "api": "./py/青麦影视.py",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 0
-},
-{
       "key": "牛牛js",
       "name": "牛牛｜秒播",
       "api": "./js/牛牛.js",
