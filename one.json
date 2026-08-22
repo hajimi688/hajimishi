@@ -103,21 +103,6 @@
       }
     },
  {
-      "key": "爱影",
-      "name": "爱影 ｜秒播",
-      "type": 3,
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "./lib/q26.txt",
-        "dataKey": "0UKM8jkasM8tdzgW",
-        "dataIv": "0UKM8jkasM8tdzgW",
-        "init": "initV122",
-        "ua": "okhttp/3.10.0"
-      }
-    },
-{
       "key": "云朵影视",
       "name": "云朵｜秒播",
       "type": 3,
@@ -175,7 +160,6 @@
         "dataIv": "1234567887654321"
       }
     },
-
 {
       "key": "茶杯狐[影]",
       "name": "茶杯狐[影]｜秒播",
@@ -194,6 +178,16 @@
       "filterable": 1,
       "type": 3
     },
+{
+  "key": "玄武影视",
+  "name": "玄武影视｜秒播",
+  "type": 3,
+  "api": "./py/玄武影视.py",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 0
+},
+
 {
       "key": "牛牛js",
       "name": "牛牛｜秒播",
@@ -239,21 +233,6 @@
   "quickSearch": 1,
   "filterable": 0
 },
-{
-            "key": "4k",
-            "name": "4k视频｜秒播",
-            "type": 3,
-            "api": "https://gitee.com/Ye-11X115490/PsyDuck/raw/master/lib/PsyDuck-Qiji.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "http://110.42.67.221:9004",
-                "dataKey": "FTgP4Gq8zPiqbt7M",
-                "dataIv": "FTgP4Gq8zPiqbt7M",
-                "api": 2
-            }
-        },
 {
       "key": "88影视_js",
       "name": "88影视｜秒播",
